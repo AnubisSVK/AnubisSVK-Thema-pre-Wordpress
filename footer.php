@@ -1,6 +1,6 @@
 <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
     <div class="container text-center">
-      <small>Copyright &copy; anubishack.tk</small>
+      <small>Copyright &copy; AnubisSVK.tk by ♥ AnubiSVK</small>
     </div>
   </footer>
   
